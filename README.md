@@ -1,5 +1,10 @@
+Oi, eu sou a Bruna
 
-<!---
-bruna-dos-santos-barreto/bruna-dos-santos-barreto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🔭 Atualmente estou estudando análise e visualização de dados 
+
+🌱 Estou aprendendo Power BI e SQL
+
+💬 Me pergunte sobre SQL, Power BI, Excel e Python
+
+📫Você me acha através do e-mail barretobruna189@gmail.com
+
