@@ -6,5 +6,5 @@ Oi, eu sou a Bruna
 
 💬 Me pergunte sobre SQL, Power BI, Excel e Python
 
-📫Você me acha através do e-mail barretobruna189@gmail.com
+📫Você me encontra através do e-mail barretobruna189@gmail.com
 
