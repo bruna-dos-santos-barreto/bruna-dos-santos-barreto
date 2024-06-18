@@ -1,4 +1,4 @@
-Oi, eu sou a Bruna
+Oi, eu sou Bruna
 
 🔭 Atualmente estou estudando análise e visualização de dados 
 
